@@ -1,3 +1,10 @@
+Overview:
+
+This is a simple program that uses google's geocoding api to calculate an optimal gathering location for many participant zipcodes. 
+Each zip code's latitude and longitude is retrieved from the api, then averaged, then the average lat/lon is submitted to google's geocoding api to find the
+location's address.
+
+
 Setup instructions (tested on a linux system, should work for others without much modification):
 
 1. untar the python-geocoder library by running:
