@@ -1,4 +1,4 @@
-Setup instructions (FOR LINUX SYSTEMS, should work the same on mac though..):
+Setup instructions (tested on a linux system, should work for others without much modification):
 
 1. untar the python-geocoder library by running:
    tar -zxf python-geocoder-0.2.tar.gz
